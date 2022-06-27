@@ -13,7 +13,7 @@ RX Quality [BBH]-RX quality in Busy hours.
 HOSR[CBBH]-Handover success rate.
 SDCCH Blocking Rate [BBH]-SDCCH Blocking rate.
 
-We analyse our data with help of pandas,seaborn and matplotlib .And got insights like
+We analyse our data with help of pandas,seaborn and matplotlib .And got Many insights.
 
 
 
